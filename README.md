@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <h3 align="center">A passionate Information Technology student</h3>
+ <h3>A passionate Information Technology student</h3>
 
 - 🌱 I’m currently learning **artificial intelligence, system design**
 
